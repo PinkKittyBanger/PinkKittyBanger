@@ -1,11 +1,6 @@
-- 👋 Hi, I’m @PinkKittyBanger
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @PinkKittyBanger... <My favorite color is pink ;)>
+- 👀 I’m interested in ... <Pink stuff and bubble gum>
+- 🌱 I’m currently learning ... <what learning really is>
+- 💞️ I’m looking to collaborate on ... <Anything new and fun. I like to know new things. I'm an artist and a creator.>
+- 📫 How to reach me ... <If ypure my type you can reach me any way or time you want.>
 
-<!---
-PinkKittyBanger/PinkKittyBanger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-IAMUSSauseast1_1660656770877_99999-6623886773.999
